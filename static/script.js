@@ -204,7 +204,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // Fade in the thank you text after 2 seconds
     setTimeout(() => {
-        const thankYouText = document.getElementById('thank-you-tex');
+        const thankYouText = document.getElementById('thank-you-text');
         thankYouText.style.display = 'block';
         setTimeout(() => {
             thankYouText.style.opacity = '1';
@@ -212,7 +212,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         // Fade in the additional text after 4 seconds (2 seconds after the first text)
         setTimeout(() => {
-            const loveUText = document.getElementById('love-u-tex');
+            const loveUText = document.getElementById('love-u-text');
             loveUText.style.display = 'block';
             setTimeout(() => {
                 loveUText.style.opacity = '1';

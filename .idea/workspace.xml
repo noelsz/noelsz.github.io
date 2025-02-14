@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0d7dbf2-02e7-4778-b4ec-19b64e0613f9" name="Changes" comment="first night progress">
+    <list default="true" id="c0d7dbf2-02e7-4778-b4ec-19b64e0613f9" name="Changes" comment="almost done:)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,12 +80,21 @@
       <option name="project" value="LOCAL" />
       <updated>1739302509808</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="almost done:)">
+      <option name="closed" value="true" />
+      <created>1739494016294</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1739494016294</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="let's get started" />
     <MESSAGE value="first night progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="first night progress" />
+    <MESSAGE value="almost done:)" />
+    <option name="LAST_COMMIT_MESSAGE" value="almost done:)" />
   </component>
 </project>
