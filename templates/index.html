@@ -22,6 +22,22 @@
         <div class="sparkle"></div>
         <div class="sparkle"></div>
     </div>
+    <div class="container">
+        <div class="question">
+            <p>Will you be my Valentine?</p>
+        </div>
+        <div class="buttons">
+            <button class="yes-btn">Yes</button>
+            <button class="no-btn">No</button>
+        </div>
+    </div>
+    <div id="thank-you-text" style="display: none;">
+        Thank you for being a part of my life.
+    </div>
+    <div id="love-u-text" style="display: none">
+        I love you!
+    </div>
     <script src="{{ url_for('static', filename='script.js') }}"></script>
+    <canvas id="heartCanvas" style="display: none;"></canvas>
 </body>
 </html>
